@@ -1,6 +1,6 @@
-![rc transmiter with arduino]([https://github.com/user-attachments/assets/21577694-67c3-489e-9566-3d44f4584ce2](https://github.com/circuitandgears1999/rc-transmiter-with-arduino/blob/883b2862294a3fcce5c697dfdd976a929bba7366/rc%20transmiter%20with%20arduino.jpg))# rc controller
+![rc transmiter with arduino](https://github.com/circuitandgears1999/rc-transmiter-with-arduino/blob/883b2862294a3fcce5c697dfdd976a929bba7366/rc%20transmiter%20with%20arduino.jpg)
 
-https://github.com/circuitandgears1999/rc-transmiter-with-arduino/blob/883b2862294a3fcce5c697dfdd976a929bba7366/rc%20transmiter%20with%20arduino.jpg
+
 This project is a ** rc controller built with Arduino  **.  
 its a **12 channel rc controller**, giving it a unique look and making it a fun electronics build for beginners and hobbyists.
 
@@ -38,7 +38,7 @@ project board and pin headers
 
 ---
 ## 📸 Preview
-![rc transmiter with arduino1](https://github.com/user-attachments/assets/92f20d10-935c-4e32-98a9-af9abac96159)
+![rc transmiter with arduino](https://github.com/circuitandgears1999/rc-transmiter-with-arduino/blob/883b2862294a3fcce5c697dfdd976a929bba7366/rc%20transmiter%20with%20arduino.jpg)
   
 
 ---
