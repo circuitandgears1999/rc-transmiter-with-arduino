@@ -37,8 +37,8 @@ project board and pin headers
 
 ---
 ## 📸 Preview
-*(![rc transmiter with arduino1](https://github.com/user-attachments/assets/92f20d10-935c-4e32-98a9-af9abac96159)
-)*  
+![rc transmiter with arduino1](https://github.com/user-attachments/assets/92f20d10-935c-4e32-98a9-af9abac96159)
+  
 
 ---
 
